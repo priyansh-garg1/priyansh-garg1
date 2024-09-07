@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Priyansh Garg</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img align="right" alt="developer" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fstormotion.io%2Fblog%2Ffull-time-developer-vs-freelancer-vs-software-development-company%2F&psig=AOvVaw0IIXXdnLNyIlbYAqI7OKk-&ust=1725815072408000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKDa5aWosYgDFQAAAAAdAAAAABAQ">
+<img align="right" alt="developer" width="400" src="https://cdn.sanity.io/images/ordgikwe/production/a830c5182852e35bcd0dc07b90122f07ecd15f48-700x525.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyansh-garg1&label=Profile%20views&color=0e75b6&style=flat" alt="priyansh-garg1" /> </p>
 
